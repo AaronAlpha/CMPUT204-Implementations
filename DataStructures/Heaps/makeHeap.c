@@ -6,7 +6,7 @@ int main(int argc, char **argv){
   
   printf("Hello World!\n");
 
-  printf("Making a Heap, provided an arr\n");
+  printf("Making a Heap, provided an arr from the command line\n");
 
   return 1;
 
